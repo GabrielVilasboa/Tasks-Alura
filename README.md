@@ -1,16 +1,28 @@
-# first_project
+# Tasks
 
-A new Flutter project.
+## Descrição
 
-## Getting Started
+App Flutter, feito durante a formação da Alura.
 
-This project is a starting point for a Flutter application.
+## Instalação e Uso
 
-A few resources to get you started if this is your first Flutter project:
+1. Certifique-se de ter o Flutter instalado. Siga as instruções em [flutter.dev/docs/get-started/install](https://flutter.dev/docs/get-started/install) para instalar.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+2. Clone este repositório e navegue até o diretório do projeto:
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+    ```bash
+    git clone https://github.com/GabrielVilasboa/Tasks-Alura.git
+    cd Tasks-Alura
+    ```
+
+3. Instale as dependências:
+
+    ```bash
+    flutter pub get
+    ```
+
+4. Execute o aplicativo:
+
+    ```bash
+    flutter run
+    ```
